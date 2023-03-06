@@ -1,6 +1,8 @@
+# program bude verziovaný v GIT
 import random
 from enum import Enum
 import time
+import datetime
 
 class Hodnota_pole(Enum):
     neprirazene = "-"
